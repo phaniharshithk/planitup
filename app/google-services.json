@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872089845407",
+    "project_id": "plan-fa568",
+    "storage_bucket": "plan-fa568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872089845407:android:8ef7b299d3f78876b9ecaa",
+        "android_client_info": {
+          "package_name": "com.example.planitup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZxIIDobxJIgt_KU1WiOU1CEFRAK2L4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
